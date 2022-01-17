@@ -1,53 +1,87 @@
-# Professional-README-Generator
-![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+<div id="top"></div>
+
+# Title: Professional README.md Generator
 
 
-## Description
+## Table of Contents
 
-This project will generate a README.md file via your command line. Fancy that. 
+* [About-the-project](#About-The-Project)
+* [Built With](#Built-With)
+* [Getting-Started](#Getting-Started)
+* [License](#License)
+* [Contact-information](#Contact-Information)
 
-## Table of Contents 
 
-* [Installation](#installation)
+  <p align="center"> Project Description</p>
+    <br />
+    <div align="center">
+</div>
 
-* [Usage](#usage)
+This application was made via CLI with prompts of general questions regarding your project, such as instructions, descriptions, license, etc. After completion, a README.md file is generated and ready to be used on your Github. 
 
-* [License](#license)
 
-* [Contributing](#contributing)
+<p align="right">(<a href="#top">back to top</a>)</p>
 
-* [Tests](#tests)
+### Built With
 
-* [Questions](#questions)
+* [Nodejs](https://nodejs.org/en/)
+* [Inquirer](https://www.npmjs.com/package/inquirer)
+* [Visual Studio Code](https://code.visualstudio.com/)
 
-## Installation
 
-To install necessary dependencies, run the following command:
+<p align="right">(<a href="#top">back to top</a>)</p>
 
-```
-npm i
-```
 
-## Usage
 
-It's really fun
+<!-- GETTING STARTED -->
 
+
+### Installation
+
+1. Install NPM packages
+* [Inquirer](https://www.npmjs.com/package/inquirer)
+
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+<!-- LICENSE -->
 ## License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-This project is licensed under the MIT license.
-  
-## Contributing
+Copyright (c) 2021-2022 Chelsie L. Bangloy-Gonsalves
 
-n/a
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files (the
+"Software"), to deal in the Software without restriction, including
+without limitation the rights to use, copy, modify, merge, publish,
+distribute, sublicense, and/or sell copies of the Software, and to
+permit persons to whom the Software is furnished to do so, subject to
+the following conditions:
 
-## Tests
+The above copyright notice and this permission notice shall be
+included in all copies or substantial portions of the Software.
 
-To run tests, run the following command:
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
+LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
+OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-```
-npm test
-```
+<p align="right">(<a href="#top">back to top</a>)</p>
 
-## Questions
 
-If you have any questions about the repo, open an issue or contact me directly at hithere@gmail.com. You can find more of my work at [chelsielbgonsalves](https://github.com/chelsielbgonsalves/).
+
+<!-- CONTACT -->
+## Contact Information
+
+* Twitter
+* [https://twitter.com/clbgonsalves](https://twitter.com/clbgonsalves) 
+* Email
+* [clbgonsalves@gmail.com](clbgonsalves@gmail.com)
+
+Project Link: [https://github.com/Blackcat-Tinkerngineers/professional-readme-generator](https://github.com/Blackcat-Tinkerngineers/professional-readme-generator)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
