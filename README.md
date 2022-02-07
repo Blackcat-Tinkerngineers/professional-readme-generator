@@ -12,12 +12,24 @@
 * [Contact-information](#Contact-Information)
 
 
-  <p align="center"> Project Description</p>
-    <br />
-    <div align="center">
+<p align="center"> Project Description</p>
+<br />
+<div align="center">
 </div>
 
 This application was made via CLI with prompts of general questions regarding your project, such as instructions, descriptions, license, etc. After completion, a README.md file is generated and ready to be used on your Github. 
+
+<br>
+</br> 
+<h3> Terminal demo via visual studio code</h3>
+
+![image](https://user-images.githubusercontent.com/88634637/152844881-87db616d-93c7-4bdb-94c0-48c9084f5089.png)
+  
+<br>
+</br> 
+<h3>Generated README.md file ready to be used for github</h3> 
+
+![image](https://user-images.githubusercontent.com/88634637/152845079-826fc1ce-bc62-44ca-954e-3744ee46cc10.png)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -38,7 +50,7 @@ This application was made via CLI with prompts of general questions regarding yo
 
 ### Installation
 
-1. Install NPM packages
+ Install NPM packages
 * [Inquirer](https://www.npmjs.com/package/inquirer)
 
 
@@ -77,11 +89,16 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 <!-- CONTACT -->
 ## Contact Information
 
-* Twitter
-* [https://twitter.com/clbgonsalves](https://twitter.com/clbgonsalves) 
-* Email
-* [clbgonsalves@gmail.com](clbgonsalves@gmail.com)
-
-Project Link: [https://github.com/Blackcat-Tinkerngineers/professional-readme-generator](https://github.com/Blackcat-Tinkerngineers/professional-readme-generator)
+<a href="https://twitter.com/clbgonsalves">https://twitter.com/clbgonsalves</a>
+<br>
+</br>
+<a href="clbgonsalves@gmail.com">clbgonsalves@gmail.com</a>
+<br>
+</br>
+<a href="https://www.linkedin.com/in/chelsiebgonsalves">https://www.linkedin.com/in/chelsiebgonsalves</a>
+<br>
+</br>
+<p>Github URL:</g>
+<a href="https://github.com/Blackcat-Tinkerngineers/professional-readme-generator">https://github.com/Blackcat-Tinkerngineers/professional-readme-generator</a>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
